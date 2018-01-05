@@ -1,0 +1,3 @@
+const nim = SDK.NIM.getInstance({
+  // ...
+})
